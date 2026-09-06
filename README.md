@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently studying Data Analytics and actively seeking an internship opportunity to apply my skills and gain hands-on experience in the industry. I have a strong foundation in:<br>📊 Data Analytics Concepts and tools<br>💻 Data Entry & Processing (proficient in RapidMiner)<br>🌐 Web Development<br>☕ Java System Development<br>🐍 Python Projects<br>I'm passionate about solving real-world problems through data and constantly learning new technologies. Feel free to explore my projects or connect with me for collaboration!
+I'm currently studying Data Analytics and actively seeking an internship opportunity to apply my skills and gain hands-on experience in the industry. I have a strong foundation in:<br>📊 Data Analytics Concepts and tools<br>💻 Data Entry & Processing <br>🌐 Web Development<br>☕ Java System Development<br>🐍 Python Projects<br>I'm passionate about solving real-world problems through data and constantly learning new technologies. Feel free to explore my projects or connect with me for collaboration!
 
 
 ## 🌐 Socials:
